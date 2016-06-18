@@ -10,5 +10,15 @@ git config --global user.email "camillenogueira@gmail.com"
 #inicializar um repositório
 git init
 
+# Verificar Status do repositório
+git status
+
+#adicionar arquivo para próximo commit
+git add README.md
+
+# Comitar colocando uma mensagem
+git commit -m "Nosso primeiro comentário"
+
+
 
 '''
