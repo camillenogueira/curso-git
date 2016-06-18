@@ -32,3 +32,7 @@ git checkout <commit>
 git checkout -b develop
 
 '''
+
+##Colaboradores
+
+Camille Nogueira <camillenogueira@gmail.com>
