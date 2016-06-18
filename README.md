@@ -22,3 +22,13 @@ git commit -m "Nosso primeiro comentário"
 git log
 git log --full-diff -p README.md
 '''
+
+##TRABALHANDO COM BRANCHS
+'''
+#Cria um Branch a partir do hash do comite
+git checkout <commit>
+
+#Cria um Branch
+git checkout -b develop
+
+'''
