@@ -1,7 +1,6 @@
 #Curso de Git e Github
 
 ##Primeiros Passos 
-
 '''
 #configurar o autor dos commits
 git config --global user.name "Camille Nogueira"
@@ -19,6 +18,7 @@ git add README.md
 # Comitar colocando uma mensagem
 git commit -m "Nosso primeiro comentário"
 
-
-
+#Visualizar Log
+git log
+git log --full-diff -p README.md
 '''
